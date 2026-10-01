@@ -14,7 +14,7 @@ time = float(input("Study Time (hrs): "))/times.append(time)
 topic = input("Topic No.2: ")/topics.append(topic)
 time = float(input("Study Time (hrs): "))/times.append(time)
 #
-topic = input("Topic No.3: ")/topics.append(topic)/topics.append(topic)
+topic = input("Topic No.3: ")/topics.append(topic)
 time = float(input("Study Time (hrs): "))/times.append(time)
 
 
